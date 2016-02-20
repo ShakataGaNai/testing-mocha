@@ -1,0 +1,31 @@
+{
+  "name": "testing-mocha",
+  "version": "1.0.0",
+  "description": "Some small samples of how to use Chai & Mocha",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShakataGaNai/testing-mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "test",
+    "example",
+    "sample"
+  ],
+  "author": "Jon Davis <jon@snowulf.com> (https://snowulf.com)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/ShakataGaNai/testing-mocha/issues"
+  },
+  "homepage": "https://github.com/ShakataGaNai/testing-mocha#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
